@@ -8,10 +8,10 @@ parameters:
     database_user: root
     database_password: root
     mailer_transport: gmail
-    mailer_host: smtp.gmail.com
-    mailer_user: boran.alsaleh@gmail.com
-    mailer_password: Germany@0595101094
-    twitter_identifier: b6EJDmeSJO1vlK9vCUiMgKHof
-    twitter_secret: KPc7kQaBIJRWa4usvLFupvg4abnsuhD6QFdpT9StGiwX8l8c7l
+    mailer_host: 
+    mailer_user:
+    mailer_password: 
+    twitter_identifier:
+    twitter_secret: 
     twitter_callback_uri: 'http://localhost:8000/twitterlogin/'
     secret: Boran1987
